@@ -286,3 +286,7 @@ artifacts/
 
 # Internal, non-published docs
 internal-docs/
+
+# Learn docs (VuePress)
+learn/doc/node_modules/
+learn/doc/.vuepress/.temp/
